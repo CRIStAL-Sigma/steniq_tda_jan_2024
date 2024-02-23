@@ -7,7 +7,7 @@ We use [```poetry```](https://python-poetry.org/docs/), a tool for dependency ma
 Clone the repository using:
 
 ```bash
-git clone git@github.com:jmiramont
+git clone https://github.com/CRIStAL-Sigma/steniq_tda_jan_2024.git
 ```
 
 Then, simply let ```poetry``` do all the work. Create a virtual environment and install all the current dependencies using:
