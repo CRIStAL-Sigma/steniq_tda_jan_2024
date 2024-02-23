@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "steniq"
+version = "0.1.0"
+description = ""
+authors = ["jmiramont <jmiramont@ingenieria.uner.edu.ar>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.9,<3.11"
+numpy = "^1.26.2"
+seaborn = "^0.13.0"
+networkx = "^3.2.1"
+gudhi = "^3.8.0"
+shapely = "^2.0.2"
+descartes = "^1.1.0"
+ipywidgets = "^8.1.1"
+scipy = "^1.11.4"
+plotly = "^5.18.0"
+nbformat = "^5.9.2"
+cvxpy = "^1.4.1"
+ipykernel = "^6.25.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
